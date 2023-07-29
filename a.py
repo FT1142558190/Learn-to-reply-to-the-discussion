@@ -6,8 +6,8 @@ Data：2020/6/11
 from selenium import webdriver#导入库
 import time
 from selenium.webdriver.common.by import By
-username = '157851'
-password = '785'#你的密码
+username = ''
+password = ''#你的密码
 
 def reply(url):#回复函数
     browser.get(url)

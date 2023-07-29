@@ -28,9 +28,9 @@ from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.common.by import By
 
 # 输入账号
-student_id ="15631570601"#input("手机号:")
+student_id =""#input("手机号:")
 # 输入密码
-password = "dsc770556"#input("密码:")
+password = ""#input("密码:")
 url = "https://mooc1.chaoxing.com/bbscircle/grouptopic?courseId=231380174&clazzid=69502047&showChooseClazzId=69502047&ut=s&enc=e2cd760ddc7b255784c925a37fc9fa8a&cpi=304011130&openc=9b3d3630cafff19e6981fba9bb27dccd"#注意！！！此处应打开学习通课程，返回旧版，复制网址到此处，每个人的都不一样！！！
 #自定义讨论内容
 tl1 = ("如何站点创建与制作商品简介页面")

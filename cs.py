@@ -28,9 +28,9 @@ from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.common.by import By
 
 # 输入账号
-student_id ="1asd0703"#input("手机号:")
+student_id ="1"#input("手机号:")
 # 输入密码
-password = "dasd"#input("密码:")
+password = "d"#input("密码:")
 url = "https://mooc1.chaoxing.com/bbscircle/grouptopic?courseId=235749144&clazzid=79401396&ut=s&enc=a9598f770ce81bcb13a81dab736f7fca&cpi=271545193&openc=7f92bdb7620e98e084fb08d2303ba8b6"#注意！！！此处应打开学习通课程，返回旧版，复制网址到此处，每个人的都不一样！！！
 #自定义讨论内容
 tl1 = ("请党放心，强国有我。")
