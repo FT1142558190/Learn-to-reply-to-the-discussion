@@ -1,7 +1,13 @@
-好好学习，天天向上。
-/************************************************************************************************** */
-/*
-                  _    _                    _   _              ___  __
+<div align="center">
+    <h1>好好学习 天天向上</h1>
+    <h2>FTyiming</h2>
+    <img alt="Github Stars" src="https://img.shields.io/github/stars/SocialSisterYi/CxKitty">
+    <img alt="Github Forks" src="https://img.shields.io/github/forks/SocialSisterYi/CxKitty">
+    <img alt="Github License" src="https://img.shields.io/github/license/SocialSisterYi/CxKitty">
+    <img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg">
+    <img alt="Image Size" src="https://img.shields.io/docker/image-size/socialsisteryi/cx-kitty">
+</div>
+
  ███████████ ███████████  █████████              ███                   ███                     
 ░░███░░░░░░█░█░░░███░░░█ ███░░░░░░              ░░░                   ░░░                      
  ░███   █ ░ ░   ░███  ░ ░███ ██████  █████ ████ ████  █████████████   ████  ████████    ███████
@@ -14,9 +20,6 @@
                                      ░░██████                                         ░░██████ 
                                       ░░░░░░                                           ░░░░░░  
 
-
-*/
-/************************************************************************************************** */
 
 免责申明
 请注意以下条款和条件，以规避您的风险和损失。如果您不同意本声明，请立即离开本网站。如果您继续访问和使用本网站，则表示您已经阅读、理解并同意接受本声明的所有条款和条件。
@@ -100,11 +103,20 @@
 声明：仅供内部学习交流，不保证能否正常运行，请勿用于正常教师课程，由此造成的任何后果，
 包括但不限于清空学习记录、取消学习资格、学习成绩不及格、全校通报、取消学籍、行政处罚、刑事诉讼等，
 由使用者负责，作者不支持也不鼓励用于网络技术学习以外的其他用途，继续使用视为使用者同意此声明。
+## ❤️Contributing Guide
+
+若发现程序存在任何 bug 或有好的想法，欢迎提交 Issue，提交 bug 反馈时需要带上报错信息截图（截全）以及对应 log 文件，并说明触发条件
 
 
+提交 Issue 时应当遵守 **[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)** 以及[别像弱智一样提问](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways)，切勿以`不懂`、`萌新问个问题`、`小白啥也不会浇浇`、`整个xxx呗`作为标题，否则一律忽略
 
-FT@yiming
-密码：FT@yiming
+[Issue](https://github.com/SocialSisterYi/CxKitty/issues) 为本项目的唯一反馈渠道，任何包括不限于在 QQ、B站私信、Telegram、微信 的提问一律忽略
+
+## ⚠️Disclaimers
+
+- 本项目以 [GPL-3.0 License](https://github.com/SocialSisterYi/CxKitty/blob/main/LICENSE) 作为开源协议，这意味着你需要遵守相应的规则
+- 本项目仅适用于**学习研究**，任何人不得以此用于**盈利**
+- 使用本项目造成的任何后果与本人无关
 
 
 附: 二○○二年一月一日《计算机软件保护条例》第十七条规定：为了学习和研究软件内含的设计思想和原理，通过安装、显示、传输或者存储软件等方式使用软件的，可以不经软件著作权人许可，不向其支付报酬！鉴于此，也希望大家按此说明研究软件
